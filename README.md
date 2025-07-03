@@ -1,2 +1,2 @@
 # CityCircle
-Swap, sell, support - in your circle.
+Swap, sell & support - in your circle.
